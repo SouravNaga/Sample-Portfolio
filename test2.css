@@ -1,0 +1,129 @@
+.top
+{
+    background-color:rgb(253, 253, 250);
+    position:relative;
+    padding: 50px;
+}
+p
+{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightseagreen;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.2rem;
+    color: #66BFBF;
+    font-weight: normal;
+  
+  }
+h3
+{
+    font-size: 1.7rem;
+    color: lightblue;
+}
+.top-cloud {
+    position:absolute;
+    right: 350px;
+    top:50px;
+  }
+  .top h1
+  {
+      color:rgb(177, 177, 196);
+      position:absolute;
+      right:610px;
+      top: 90px;
+  }
+  .top h3
+  {
+      color:rgb(161, 190, 214);
+      position: absolute;
+      top:150px;
+      left:600px;
+  }
+  .down-cloud {
+    position:relative;
+    left:20px;
+  }
+  .mountain
+  {
+      position:relative;
+      top:305px;
+      left:500px;
+  }
+  .middle{
+    margin: 400px;
+  }
+  .user{
+    width: 22%;
+    position:relative;
+    left: 250px;
+  }
+  .middle h1
+  {
+      position: relative;
+      left: 300px;
+  }
+
+
+  .skill-row{
+    width: 70%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    line-height:2;
+  
+  }
+
+
+  .skill-row h3
+  {
+      font-size: 30px;
+      color: darkgreen;
+  }
+
+  .skillimage1
+{
+  width: 30%;
+  float: left;
+  position: relative;
+  right: 150px;
+}
+.skillimage2
+{
+  width: 30%;
+  float: right;
+  margin-left:  50px;
+
+}
+.getin
+{
+    text-align: center;
+}
+.btn {
+    position: relative;
+    top: 30px;
+    background-color: #0fabbc;
+    width: 400px;
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+    border-color: black;
+  }
+  .bottom
+  {
+      background-color: rgb(35, 35, 192);
+      height: 50%;
+  }
+  .fb
+  {
+    position: relative;  
+    margin: 500px;
+    top: 80px;
+  }
+  .copyright
+  {
+      padding: 70px;
+      color: black;
+  }
